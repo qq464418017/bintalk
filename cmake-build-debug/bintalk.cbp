@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="bintalk"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\compiler\;CMake Files\runtime\;CMake Files\runtime\py\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bintalk">
+				<Option output="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/bintalk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler"/>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/Makefile&quot;  VERBOSE=1 bintalk"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bintalk/fast">
+				<Option output="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/bintalk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler"/>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/Makefile&quot;  VERBOSE=1 bintalk/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bintalk_cpp">
+				<Option output="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/libbintalk_cppd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/Makefile&quot;  VERBOSE=1 bintalk_cpp"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bintalk_cpp/fast">
+				<Option output="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/libbintalk_cppd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug"/>
+					<Add directory="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/Makefile&quot;  VERBOSE=1 bintalk_cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/runtime/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/bintalk.tab.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/bintalk.tab.cpp.rule">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/bintalk.tab.hpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/lex.yy.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/cmake-build-debug/compiler/lex.yy.cpp.rule">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/CSGenerator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/CodeFile.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/CodeFile.h">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/CodeGenerator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/CodeGenerator.h">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/Context.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/Context.h">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/CppGenerator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/DartGenerator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/DartGenerator.h">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/Definition.h">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/ERLGenerator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/GOGenerator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/JAVAGenerator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/LUAGenerator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/Options.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/Options.h">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/PYGenerator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/UE4Generator.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/bintalk.cpp">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/bintalk.l">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/bintalk.y">
+			<Option target="bintalk"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/BinaryReader.h">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/BinaryWriter.h">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/Common.h">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/FileReader.cpp">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/FileReader.h">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/FileWriter.cpp">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/FileWriter.h">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/MemoryReader.cpp">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/MemoryReader.h">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/MemoryWriter.cpp">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/MemoryWriter.h">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/ProtocolReader.cpp">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/ProtocolReader.h">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/ProtocolWriter.cpp">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/cpp/bintalk/ProtocolWriter.h">
+			<Option target="bintalk_cpp"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/Config.h.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/compiler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\compiler\"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\runtime\"/>
+		</Unit>
+		<Unit filename="/Users/zhouzhiwei/workspace/Git/bintalk-developent/runtime/py/setup.py.in">
+			<Option virtualFolder="CMake Files\runtime\py\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

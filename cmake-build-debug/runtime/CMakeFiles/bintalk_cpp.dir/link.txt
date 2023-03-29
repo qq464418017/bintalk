@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libbintalk_cppd.a  CMakeFiles/bintalk_cpp.dir/cpp/bintalk/ProtocolReader.cpp.o CMakeFiles/bintalk_cpp.dir/cpp/bintalk/ProtocolWriter.cpp.o CMakeFiles/bintalk_cpp.dir/cpp/bintalk/FileReader.cpp.o CMakeFiles/bintalk_cpp.dir/cpp/bintalk/FileWriter.cpp.o CMakeFiles/bintalk_cpp.dir/cpp/bintalk/MemoryReader.cpp.o CMakeFiles/bintalk_cpp.dir/cpp/bintalk/MemoryWriter.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libbintalk_cppd.a
